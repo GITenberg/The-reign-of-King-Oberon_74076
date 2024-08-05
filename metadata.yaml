@@ -1,0 +1,51 @@
+_repo: The-reign-of-King-Oberon_74076
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robinson, Charles
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '31464'
+    url: http://www.gutenberg.org/2009/agents/31464
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Robinson_(illustrator)
+creator:
+  author:
+    agent_name: Jerrold, Walter
+    alias: Jerrold, Walter Copeland
+    birthdate: 1865
+    deathdate: 1929
+    gutenberg_agent_id: '7734'
+    url: http://www.gutenberg.org/2009/agents/7734
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Jerrold
+description: ''
+gutenberg_issued: '2024-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74076'
+language: en
+pgterms:marc904: https://archive.org/details/reignofkingobero00jerr/page/n3/mode/2up
+pgterms:marc905: 20220428213307jerrold
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Joeri de Ruiter and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bJ. M. Dent & Co., $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The reign of King Oberon -- The gifts of the dwarfs -- Thumbeline
+  -- The young piper -- Rumpel-Stilts-Ken -- Karl Katz -- The wild swans -- The herd-boy
+  -- The nose-tree -- The pranks of Robin Goodfellow -- The golden lantern, the golden
+  goat, and the golden cloak -- Hansel and Grethel -- The magic bottles -- The bear
+  and skrattel -- The goose-girl -- The water of life -- The troll's hammer -- The
+  three little crones, each with something big -- The Queen's song -- The three sneezes
+  -- The Elf hill -- Riquet with the Tuft -- The benevolent frog -- Allwise the dwarf
+  -- The fairy at the well -- Dolly, draw the cake -- The little glass shoe -- East
+  o' the Sun and West o' the Moon -- Queen Mab.
+title: The reign of King Oberon
+url: http://www.gutenberg.org/ebooks/74076
